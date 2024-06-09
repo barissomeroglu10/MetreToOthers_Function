@@ -50,7 +50,6 @@ double MetreToCentiMetre(double Metre)
 double MetreToKiloMetre(double Metre)
 {
 	// 1 km = 1000 m 
-
 	double KiloMetre = Metre / 1000;
 
 	return KiloMetre;

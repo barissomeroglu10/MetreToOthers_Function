@@ -1,5 +1,5 @@
 ﻿/*
-In this code, we will get length from user metre and will convert to this length to centimetre and kilometre.
+In this code, we will get length from user as metre and will convert to this length to centimetre and kilometre.
 
 Developer: Barış Someroğlu
 Date: 25.03.2024 / 11:30 pm
